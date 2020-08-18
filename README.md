@@ -11,4 +11,4 @@ real time sending data to consumer by producer using kafka with python
   
   
 ## Follow this blog for producer and consumer start and then we will use producer with python code.¶
-    - https://medium.com/@Ankitthakur/apache-kafka-installation-on-mac-using-homebrew-a367cdefd273
+    https://medium.com/@Ankitthakur/apache-kafka-installation-on-mac-using-homebrew-a367cdefd273
